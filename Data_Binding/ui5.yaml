@@ -1,0 +1,7 @@
+specVersion: '2.6'
+metadata:
+  name: data_binding
+type: application
+framework:
+  name: SAPUI5
+  version: "1.96.1"
